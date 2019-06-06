@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Newfolder</folder>
+	<filename>line176.jpg</filename>
+	<path>C:\Users\Arjun\Desktop\pillar\Newfolder\line176.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>666</width>
+		<height>999</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pillar</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>303</xmin>
+			<ymin>233</ymin>
+			<xmax>362</xmax>
+			<ymax>815</ymax>
+		</bndbox>
+	</object>
+</annotation>
