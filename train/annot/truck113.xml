@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Truck</folder>
+	<filename>truck113.jpg</filename>
+	<path>E:\Cygnet\Python\Yolo - Copy\darkflow-master\train\Truck\truck113.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>650</width>
+		<height>496</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>truck</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>40</xmin>
+			<ymin>137</ymin>
+			<xmax>586</xmax>
+			<ymax>435</ymax>
+		</bndbox>
+	</object>
+</annotation>

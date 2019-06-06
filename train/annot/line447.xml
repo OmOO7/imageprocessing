@@ -1,0 +1,26 @@
+<annotation>
+	<folder>New folder</folder>
+	<filename>line447.jpg</filename>
+	<path>E:\Cygnet\Python\Yolo - Copy\darkflow-master\New folder\line447.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>225</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pillar</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>120</xmin>
+			<ymin>27</ymin>
+			<xmax>157</xmax>
+			<ymax>246</ymax>
+		</bndbox>
+	</object>
+</annotation>
